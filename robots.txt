@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-1ys4o8.haybaleman.com/sitemap.xml
